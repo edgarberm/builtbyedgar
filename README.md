@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
 
-<!--
-**builtbyedgar/builtbyedgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
-Here are some ideas to get you started:
+[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Yo! 👋
+
+I'm Edgar. An UI Engineer at ![CARTO](https://carto.com/).
+
+
+## Get in touch 
+
+- ![Twitter](https://twitter.com/BuiltByEdgar)
+- ![Linkedin](https://www.linkedin.com/in/edgar-bermejo/)
+- Or ask me something ![here](https://github.com/builtbyedgar/builtbyedgar/issues)
