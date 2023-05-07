@@ -2,7 +2,7 @@
 
 ## Yo! 👋
 
-I'm Edgar. An UI Engineer at [CARTO](https://carto.com/).
+I'm Edgar. An Cross-Team UI Tech Lead at [Wizzie](https://wizzie.io/).
 
 
 ### Get in touch 
