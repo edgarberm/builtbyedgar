@@ -11,7 +11,7 @@ I'm Edgar Bermejo a UI engineer in love with JavaScript .
 
 - 👨🏻‍💻 I’m currently working at **@Wizzie** as Cross-Team UI Tech Lead.
 - :computer: Most used line of code `git commit -m "feat: bla bla bla"`
-- 🖤 I love 👶🏻 🍕 🍺🍻 🚲 🛹 🪵 🏖️ 🏔️ ⌨️
+- 🖤 I love 👶🏻 🌍 🍕 💧 🍻 🚲 🛹 🪵 🏖️ 🏔️ ⌨️
 - 📫 How to reach me: [gmail me!](eledgaar@gmail.com).
 
 #### Top Technologies
