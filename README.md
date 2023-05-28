@@ -6,7 +6,7 @@ I'm Edgar Bermejo a UI engineer in love with JavaScript .
 
 [![Twitter Badge](https://img.shields.io/badge/-@edgarberm_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/edgarberm_)](https://twitter.com/edgarberm_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Edgar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-bermejo/) 
-[![Instagram Badge](https://img.shields.io/badge/-@builtbyedgar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/builtbyedgar) 
+[![Instagram Badge](https://img.shields.io/badge/-@edgarberm_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/edgarberm_) 
 [![Mail Badge](https://img.shields.io/badge/-eledgaar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:eledgaar@gmail.com)
 
 - 👨🏻‍💻 I’m currently working at **@Wizzie** as Cross-Team UI Tech Lead.
